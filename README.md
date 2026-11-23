@@ -30,5 +30,4 @@ icon, hotkeys, audio mixing (WASAPI), clip naming, the gallery (GDI + Media Foun
 the newest segments without re-encoding.
 
 ## Notes
-- `assets/clip.wav` is the "clip saved" sound. Replace it with your own before publishing if you don't have the rights to it.
 - The installer bundles an unmodified GPL build of ffmpeg from <https://www.gyan.dev/ffmpeg/builds/>.
