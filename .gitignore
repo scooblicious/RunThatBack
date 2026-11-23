@@ -1,0 +1,6 @@
+# build output
+/target
+
+# installer build products (ffmpeg is downloaded by build_installer.ps1; don't commit it)
+/installer/ffmpeg.exe
+/installer/Output
